@@ -1,4 +1,4 @@
-# Internship SDET UI Test Automation
+# SDET UI Test Automation
 
 Автоматизированные UI-тесты для сайтов [Way2Automation](http://way2automation.com/) и [sql-ex.ru](https://www.sql-ex.ru/) на Java с использованием Selenium WebDriver, TestNG, Page Object Model и PageFactory.
 ## Стек технологий
